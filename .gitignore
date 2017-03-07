@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+*.p
+*.gz
+Projects/Project2/__pycache__
+Projects/Project2/image_classification*
+Projects/Project2/cifar-10-batches-py/*
+Projects/Project2/*.p
